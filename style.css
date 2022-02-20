@@ -1,0 +1,97 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.H1Index {
+    color: black;
+    text-align: center;
+    font-size: 1.5cm;
+    text-decoration: underline;
+    margin-bottom: 80px;
+    
+}
+
+.index {
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    padding-bottom: 10px;
+    font-size: 0.8cm;
+    color: rgb(94, 94, 94);
+}
+
+.index:hover {
+    background-color: black;
+    color: red;
+    font-size: 1cm;
+    transition-duration: 0.15s;
+}
+
+.H1Name {
+    font-size: 1.5cm;
+
+
+}
+
+.aName {
+    font-size: 1.5cm;
+
+}
+
+.aName:hover {
+    display: inline-block;
+    font-size: 1.5cm;
+    color: red;
+
+}
+
+.titre {
+    font-weight: 1000;
+    font-size: 0.8cm;
+}
+
+
+.input {
+    margin-bottom: 60px;
+    font-size: 0.6cm;
+}
+
+.ADD:hover {
+    color: rgb(15, 194, 15);
+    font-size: 0.4cm;
+}
+
+.EDIT:hover {
+    color: rgb(255, 208, 0);
+    font-size: 0.4cm;
+}
+
+.DELETE:hover {
+    color: red;
+    font-size: 0.4cm;
+
+}
+
+.ADD {
+    color: rgb(148, 148, 148);
+    text-decoration: none;
+}
+
+.EDIT {
+    color: rgb(148, 148, 148);
+    text-decoration: none;
+
+}
+
+.DELETE {
+    color: rgb(148, 148, 148);
+    text-decoration: none;
+
+}
+
+.background {
+    background: radial-gradient(circle, #ffffff, #a3a3a3);
+
+}
+
